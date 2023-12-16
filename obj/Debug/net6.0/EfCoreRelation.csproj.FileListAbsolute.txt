@@ -72,3 +72,4 @@ D:\project_2\1.2 OneToManyRelation\EfCoreRelation\EfCoreRelation\bin\Debug\net6.
 D:\project_2\1.2 OneToManyRelation\EfCoreRelation\EfCoreRelation\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 D:\project_2\1.2 OneToManyRelation\EfCoreRelation\EfCoreRelation\bin\Debug\net6.0\AutoMapper.dll
 D:\project_2\1.2 OneToManyRelation\EfCoreRelation\EfCoreRelation\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\project_2\1.2 OneToManyRelation\EfCoreRelation\EfCoreRelation\obj\Debug\net6.0\EfCoreRelation.sourcelink.json

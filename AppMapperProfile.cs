@@ -7,9 +7,12 @@ namespace EfCoreRelation
     public class AppMapperProfile :Profile
     {
         public AppMapperProfile()
-        {
+
+        {//here is destination and destination
             CreateMap<CustomerDto, Customer>();
+        
             CreateMap<CustomerAddressDTO, CustomerAddress>();
+           
         }
     }
 }
